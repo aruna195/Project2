@@ -20,25 +20,25 @@ public class MarbleFlavor extends Cake {
 	@Override
 	public String getType() {
 		// TODO Auto-generated method stub
-		return this.cakeType;
+		return cakeType;
 	}
 
 	@Override
 	public String getSize() {
 		// TODO Auto-generated method stub
-		return this.cakeSize;
+		return cakeSize;
 	}
 
 	@Override
 	public String getLayers() {
 		// TODO Auto-generated method stub
-		return this.cakeLayers;
+		return cakeLayers;
 	}
 
 	@Override
 	public String getTheme() {
 		// TODO Auto-generated method stub
-		return this.cakeTheme;
+		return cakeTheme;
 	
 	}
 	@Override

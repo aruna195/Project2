@@ -13,7 +13,7 @@ public class ChocolateFlavor extends Cake {
 		this.cakeLayers = cakeLayers;
 		this.cakeTheme = cakeTheme;
 		this.cakeFlavor =cakeFlavor;
-	//System.out.println("The Cake Catergory:" + Cake.ChocolateFlavor );
+	//System.out.println("The Cake Category:" + Cake.ChocolateFlavor );
 	}
 
 	@Override
@@ -51,9 +51,6 @@ public class ChocolateFlavor extends Cake {
 	
 	
 
-	/*@Override
-	public double getCost() {
-		
-		return	30.00;	*/
+	
 	
 
